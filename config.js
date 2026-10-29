@@ -4,7 +4,7 @@
 // NUNCA pongas aquí la "service_role key".
 window.APPCC_CONFIG = {
   supabaseUrl: "https://xciwgsxjucbjuyawsaqe.supabase.co",
-  supabaseAnonKey: "",  // empieza por "eyJ..." o "sb_publishable_..."
+  supabaseAnonKey: "sb_publishable_6-LR7w6oK4I-Oi8qr60Ukw_IHhivLQE",  // empieza por "eyJ..." o "sb_publishable_..."
   nombreServicio: "Registro APPCC",
   contacto: "leidycabezare@gmail.com"
 };
